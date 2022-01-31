@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 Don 'Ghengis Don' Santiago
 v.30.1.22 
+
+Plus side we found out exactly where we're starting from now.
